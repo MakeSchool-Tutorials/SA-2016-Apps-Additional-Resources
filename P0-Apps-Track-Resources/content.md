@@ -26,6 +26,7 @@ This page compiles the ones that we think are the most useful. If you find somet
 
 # Other
 
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps), list of open-source apps you can reference
 - [Try Git](try.github.io), learn terminal Git in the browser
 - [Git-Game](https://git-game.com/), practice Git from the terminal
 - [Ultimate Guide to iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
